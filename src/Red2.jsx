@@ -1,6 +1,4 @@
 import React, { useEffect, useRef } from "react";
-import useWebAnimations from "@wellyshen/use-web-animations";
-
 import "./myStyle.css";
 function RedQueen() {
   const aliceSprite = useRef(null);
